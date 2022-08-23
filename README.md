@@ -15,4 +15,4 @@ Our main motivation for choosing this project is due to the lack of visual repre
 <br />
 After users finish our modules, they will have a solid foundation to use theoretical knowledge and experimentation to create practical solutions and contribute to the field of quantum computing. <br />
 <br />
-Abstract: During this Quantum Mechanics Module a wide range of QM topics are exposed from visualization experiments, wavefunction and operators to spin and semiconductors. We found out that, this specific order and contents are a great kickoff not only to understand probabilistic phenomenons applied in quantum computing but quantum hardware behaviour.
+Abstract: During this Quantum Mechanics Module a wide range of QM topics are exposed from visualization experiments, wavefunction and operators to spin and semiconductors. We found out that, this specific order and contents are a great kickoff not only to understand probabilistic phenomenons applied in quantum computing but quantum hardware behaviour. Its content is ordered from book 1: Double Slit Experiment, to book 9 as a brief journey in Quantum Mechanics.
